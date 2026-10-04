@@ -44,6 +44,10 @@ Sales teams waste time on leads that were never going to close, and black-box sc
 
 ![Score distribution and top leads](assets/00-dashboard.png)
 
+**All scored leads with tiers**
+
+![All scored leads with tiers](assets/10-leads.png)
+
 ---
 
 Built by [Yahya Jarray](https://github.com/jryahia). Interested in a similar system? [Get in touch](mailto:yahiajarray43@gmail.com).
