@@ -40,6 +40,8 @@ Sales teams waste time on leads that were never going to close, and black-box sc
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Score distribution and top leads**
 
 ![Score distribution and top leads](assets/00-dashboard.png)
